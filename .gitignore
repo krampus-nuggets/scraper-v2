@@ -1,0 +1,10 @@
+# Backend Exclusions
+
+be/Include
+be/Lib
+be/Scripts
+__pycache__
+pyvenv.cfg
+*.txt
+
+# Frontend Exclusions
