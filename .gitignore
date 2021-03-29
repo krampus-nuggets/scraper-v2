@@ -6,5 +6,6 @@ be/Scripts
 __pycache__
 pyvenv.cfg
 *.txt
+!requirements.txt
 
 # Frontend Exclusions
